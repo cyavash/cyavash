@@ -11,13 +11,13 @@ My name is Siavash Z.
 ### My Skills:
 
 <ul style="list-style: none; margin: 0; padding: 0;">
-   <li><img src="https://skillicons.dev/icons?i=html,css" alt="HTML5 CSS3" title="HTML5 and CSS3"></li>
-   <li><img src="https://skillicons.dev/icons?i=js,react" alt="JavaScript React" title="JavaScript and React"></li>
-   <li><img src="https://skillicons.dev/icons?i=tailwind,scss" alt="TailWind SCSS" title="Tailwind and SCSS"></li>
-   <li class="logos-custom">
-   <img src="https://siavash.tech/img/hubspot-1.svg" alt="Hubspot" title="Hubspot">
+   <li style="list-style: none;"><img src="https://skillicons.dev/icons?i=html,css" alt="HTML5 CSS3" title="HTML5 and CSS3"></li>
+   <li style="list-style: none;"><img src="https://skillicons.dev/icons?i=js,react" alt="JavaScript React" title="JavaScript and React"></li>
+   <li style="list-style: none;"><img src="https://skillicons.dev/icons?i=tailwind,scss" alt="TailWind SCSS" title="Tailwind and SCSS"></li>
+   <li style="list-style: none;" class="logos-custom">
+   <img src="https://siavash.tech/img/hubspot-1.svg" alt="Hubspot" title="Hubspot" style="width: 46px;">
    <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" title="Wordpress">
    </li>
-   <li><img src="https://skillicons.dev/icons?i=bootstrap,figma" alt="skill-icon" title="Bootstrap and Figma"></li>
-   <li><img src="https://skillicons.dev/icons?i=xd,ps" alt="skill-icon" title="Adobe XD and Photoshop"></li>    
+   <li style="list-style: none;"><img src="https://skillicons.dev/icons?i=bootstrap,figma" alt="skill-icon" title="Bootstrap and Figma"></li>
+   <li style="list-style: none;"><img src="https://skillicons.dev/icons?i=xd,ps" alt="skill-icon" title="Adobe XD and Photoshop"></li>    
 </ul>
