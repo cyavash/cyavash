@@ -9,7 +9,7 @@ My name is Siavash Z.
                                 <a aria-label="upwork" rel="noreferrer" target="_blank" href="https://www.upwork.com/freelancers/siavash/">
                                    Upwork
                                 </a>&nbsp; &nbsp;
-                                <a aria-label="github" rel="noreferrer" target="_blank" href="https://siavash.dev/">
+                                <a aria-label="github" rel="noreferrer" target="_blank" href="https://siavash.tech/">
                                     Website
                                 </a>
 </span>
