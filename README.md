@@ -14,7 +14,7 @@ My name is Siavash Z.
    <div><img src="https://skillicons.dev/icons?i=js,react" alt="JavaScript React" title="JavaScript and React"></div>
    <div><img src="https://skillicons.dev/icons?i=tailwind,scss" alt="TailWind SCSS" title="Tailwind and SCSS"></div>
    <div class="logos-custom">
-   <img src="https://siavash.tech/img/hubspot-1.svg" alt="Hubspot" title="Hubspot" style="width: 46px;">&nbsp; &nbsp;
+   <img src="https://siavash.tech/img/hubspot-1.svg" alt="Hubspot" title="Hubspot" style="width: 46px;">&nbsp; 
    <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" title="Wordpress">
    </div>
    <div><img src="https://skillicons.dev/icons?i=bootstrap,figma" alt="skill-icon" title="Bootstrap and Figma"></div>
