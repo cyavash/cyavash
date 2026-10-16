@@ -1,0 +1,17 @@
+{# Reference HubSpot CMS module. Configure the fields described in fields.json. #}
+<section class="service-summary" aria-label="{{ module.heading|default('Services')|escape_attr }}">
+  {% if module.heading %}<h2>{{ module.heading|escape_html }}</h2>{% endif %}
+  <ul class="service-summary__grid">
+    {% for service in module.services %}
+      <li class="service-summary__card">
+        <h3>{{ service.title|escape_html }}</h3>
+        {% if service.description %}<p>{{ service.description|escape_html }}</p>{% endif %}
+        {% if service.link.url.href and service.link_text %}
+          {% set href = service.link.url.href %}
+          {% if service.link.url.type == 'EMAIL_ADDRESS' %}{% set href = 'mailto:' ~ href %}{% endif %}
+          <a href="{{ href|escape_url }}"{% if service.link.open_in_new_tab %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ service.link_text|escape_html }}</a>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</section>

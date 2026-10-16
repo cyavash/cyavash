@@ -1,0 +1,58 @@
+[
+  {
+    "name": "heading",
+    "label": "Section heading",
+    "type": "text",
+    "default": "How I can help"
+  },
+  {
+    "name": "services",
+    "label": "Services",
+    "type": "group",
+    "occurrence": {
+      "min": 1,
+      "max": 12,
+      "default": 3,
+      "sorting_label_field": "services.title"
+    },
+    "children": [
+      {
+        "name": "title",
+        "label": "Title",
+        "type": "text",
+        "required": true,
+        "default": "CRM architecture"
+      },
+      {
+        "name": "description",
+        "label": "Description",
+        "type": "text",
+        "default": "Clear pipelines, consistent data and reliable handoffs."
+      },
+      {
+        "name": "link_text",
+        "label": "Link text",
+        "type": "text",
+        "default": "Explore service"
+      },
+      {
+        "name": "link",
+        "label": "Link",
+        "type": "link",
+        "supported_types": [
+          "EXTERNAL",
+          "CONTENT",
+          "EMAIL_ADDRESS"
+        ],
+        "default": {
+          "url": {
+            "type": "EXTERNAL",
+            "href": ""
+          },
+          "open_in_new_tab": false,
+          "no_follow": false
+        }
+      }
+    ]
+  }
+]
