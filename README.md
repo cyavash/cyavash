@@ -1,28 +1,55 @@
-# Hi there 👋
+![Siavash Zahir | HubSpot Solutions Architect & Developer](showcase/profile-banner.svg)
 
-My name is Siavash Z. 
-🌍 I am a Front-End Developer and Certified Hubspot Developer with over 12 years of professional experience.
+# Siavash Zahir
+### HubSpot Solutions Architect & Developer | CRM, Automation & CMS
 
-## Front End Web Developer | Certified Hubspot Developer
+I build and improve HubSpot CRM systems and websites that give teams reliable data, clear ownership and consistent follow-up.
 
-<span>
-                                <a aria-label="upwork" rel="noreferrer" target="_blank" href="https://www.upwork.com/freelancers/siavash/">
-                                   Upwork
-                                </a>&nbsp; &nbsp;
-                                <a aria-label="github" rel="noreferrer" target="_blank" href="https://siavash.tech/">
-                                    Website
-                                </a>
-</span>
+**13+ years across CRM, web development and business systems · 8x HubSpot-certified · Top Rated Plus on Upwork**
 
-### My Skills:
+[Portfolio](https://siavash.tech/) · [Hire me on Upwork](https://www.upwork.com/freelancers/siavash/) · [Interactive quote demo](https://siavash.tech/databiologics-quote/)
 
-   <div><img src="https://skillicons.dev/icons?i=html,css" alt="HTML5 CSS3" title="HTML5 and CSS3"></div>
-   <div><img src="https://skillicons.dev/icons?i=js,react" alt="JavaScript React" title="JavaScript and React"></div>
-   <div><img src="https://skillicons.dev/icons?i=tailwind,scss" alt="TailWind SCSS" title="Tailwind and SCSS"></div>
-   <div class="logos-custom">
-   <img src="https://siavash.tech/img/hubspot-1.svg" alt="Hubspot" title="Hubspot" style="width: 46px;">&nbsp; 
-   <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" title="Wordpress">
-   </div>
-   <div><img src="https://skillicons.dev/icons?i=bootstrap,figma" alt="skill-icon" title="Bootstrap and Figma"></div>
-   <div><img src="https://skillicons.dev/icons?i=xd,ps" alt="skill-icon" title="Adobe XD and Photoshop"></div>    
+## CRM & automation preview
 
+[![Kaplan Law CRM sample](showcase/crm-preview.svg)](showcase/crm-overview.md)
+
+[Explore the CRM and workflow overview →](showcase/crm-overview.md)
+
+## What I work on
+
+- **CRM architecture & RevOps:** pipelines, lifecycle stages, custom objects, associations, lead routing, permissions, workflows and reporting.
+- **Integrations & migrations:** HubSpot APIs, webhooks, private apps, Zapier, n8n and Make, with record matching, duplicate prevention, retries and reconciliation.
+- **Service Hub & AI:** Help Desk, SLAs, Breeze Customer Agent, knowledge sources, multilingual routing and human handoff.
+- **HubSpot CMS & WordPress:** HubL themes, templates, reusable modules, HubDB, landing pages and Figma implementation; ACF Pro, Elementor, Gutenberg and WooCommerce.
+- **Email & measurement:** responsive HTML emails, reusable HubSpot templates, segmentation, nurture campaigns, deliverability, GA4, GTM and UTM attribution.
+- **GTM automation:** Clay enrichment, qualification and CRM handoffs. Also working with GoHighLevel CRM, funnels and automation.
+
+## Selected work
+
+| Project | Work and result |
+| --- | --- |
+| Enveseur | Service Hub and Breeze across 3 brands, 2 languages and 10 country branches. Median first human response reduced from 4 hours to 55 minutes. |
+| Functionly | Figma design and HubSpot website development. Reusable modules reduced landing-page build time from 3 hours to 45 minutes. |
+| DataBiologics | WordPress connected to HubSpot CRM. Standardized 18,000 records; new-lead source and ownership completeness improved from 72% to 97%. |
+| Building Brokers WA | WordPress, HubSpot qualification, follow-up, booking and Breeze. Manual handling reduced from 15 to 4 minutes per enquiry. |
+| RMDY Academy | HubSpot and Zapier intake matching. Duplicate creation rate reduced from 5% to 0.5%. |
+
+More project details and visuals: **[siavash.tech](https://siavash.tech/)**
+
+## Public code samples
+
+- **[Kaplan Law CRM intake workflow](showcase/crm-overview.md)**: a concise visual overview of CRM records, pipeline stages, ownership, intake review and follow-up handoffs.
+
+- **[HubL service-summary module](showcase/hubl-guide.md)**: editable repeater fields, conditional links and escaped output.
+- **[Quote-pricing calculator](showcase/quote-pricing.md)**: monthly, quarterly and annual billing, optional services, integer-cent arithmetic and automated checks.
+- **[DataBiologics interactive quote](https://siavash.tech/databiologics-quote/)**: standalone quote prototype showing billing choices, optional services and print layouts. Native HubSpot acceptance and payment are not connected.
+
+These are public reference samples. Client implementations and CRM records are kept private.
+
+## How I deliver
+
+Review the existing process, define the architecture, implement, test the exceptions and document the handover. I work on focused fixes, complete implementations and ongoing support, with practical Loom walkthroughs.
+
+**Core stack:** HubSpot · HubL · JavaScript · HTML · CSS · PHP · WordPress · React · n8n · Zapier · Make · Clay · GoHighLevel
+
+[Discuss a project on Upwork →](https://www.upwork.com/freelancers/siavash/)
