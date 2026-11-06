@@ -1,61 +1,59 @@
 ![Siavash Zahir | HubSpot Solutions Architect & Developer](showcase/profile-banner.svg)
 
 # Siavash Zahir
-### HubSpot Solutions Architect & Developer | CRM, Automation & CMS
+### HubSpot Solutions Architect & Developer
 
-I build and improve HubSpot CRM systems and websites that give teams reliable data, clear ownership and consistent follow-up.
+I help teams make HubSpot reliable: clear data ownership, dependable automation and integrations that support the way the business actually works. I own the architecture and implementation, from the initial audit to testing and handover.
 
-**13+ years across CRM, web development and business systems · 8x HubSpot-certified · Top Rated Plus on Upwork**
+**13+ years across web, CRM and business systems · 8x HubSpot-certified · Top Rated Plus on Upwork**
 
-[Portfolio](https://siavash.tech/) · [Hire me on Upwork](https://www.upwork.com/freelancers/siavash/) · [Live project studio](https://cyavash.github.io/hubspot-crm-portfolio/) · [Projects](https://github.com/users/cyavash/projects/1)
+[Discuss a project](https://www.upwork.com/freelancers/siavash/) · [Portfolio](https://siavash.tech/) · [Explore the project studio](https://cyavash.github.io/hubspot-crm-portfolio/)
 
-## Explore the work
+## Start with the work
 
-[![HubSpot Service Hub and Breeze support workspace](https://cyavash.github.io/hubspot-crm-portfolio/enveseur-preview.webp)](https://cyavash.github.io/hubspot-crm-portfolio/enveseur.html)
+| If you need… | Explore… | What to look for |
+| --- | --- | --- |
+| CRM qualification and follow-up | [Building Brokers WA](https://cyavash.github.io/hubspot-crm-portfolio/bbwa.html) | Four-step qualification, contact mapping, ownership, booking and human handoff |
+| Customer-service architecture | [Enveseur](https://cyavash.github.io/hubspot-crm-portfolio/enveseur.html) | Service Hub, Breeze knowledge sources, multilingual routing and escalation |
+| HubSpot CMS development | [Functionly](https://cyavash.github.io/hubspot-crm-portfolio/functionly.html) | Responsive templates, reusable HubL modules and marketer editing controls |
+| WordPress connected to CRM | [DataBiologics](https://cyavash.github.io/hubspot-crm-portfolio/databiologics.html) | Lead capture, lifecycle tracking, routing and reporting |
+| Intake and record matching | [RMDY Academy](https://cyavash.github.io/hubspot-crm-portfolio/rmdy.html) | HubSpot and Zapier, duplicate prevention and submission associations |
+| Responsive email development | [The National College](https://cyavash.github.io/hubspot-crm-portfolio/email.html) | Five coordinated email formats, Figma design and HubSpot templates |
 
-**[Service Hub & Breeze](https://cyavash.github.io/hubspot-crm-portfolio/enveseur.html) · [HubSpot website](https://cyavash.github.io/hubspot-crm-portfolio/functionly.html) · [WordPress & CRM](https://cyavash.github.io/hubspot-crm-portfolio/databiologics.html) · [Email design & HubSpot development](https://cyavash.github.io/hubspot-crm-portfolio/email.html)**
+Public previews are reference builds with sample data, separate from client production systems.
 
-Ten interactive cases with final design previews, source code and delivery details. **[Browse the full studio →](https://cyavash.github.io/hubspot-crm-portfolio/)**
+## Inspect the implementation
 
-## What I work on
+- **[HubL component package](https://github.com/cyavash/hubspot-crm-portfolio/tree/main/components/hubspot)** - editable fields, reusable modules, native FAQs and keyboard tabs.
+- **[Qualification flow](https://github.com/cyavash/hubspot-crm-portfolio/blob/main/qualification.js)** - step validation and state handling, with [automated checks](https://github.com/cyavash/hubspot-crm-portfolio/blob/main/qualification.test.cjs).
+- **[Native JavaScript UI](https://github.com/cyavash/hubspot-crm-portfolio/tree/main/native-ui)** - scoped disclosures, keyboard navigation, literal search, filters and user-controlled carousels.
+- **[WordPress component](https://github.com/cyavash/hubspot-crm-portfolio/blob/main/WORDPRESS.md)** - escaped output, scoped styling and reusable shortcode content.
+- **[Quote-pricing calculator](showcase/quote-pricing.md)** - billing choices, optional services, integer-cent arithmetic and automated checks.
+- **[HubSpot email reference](https://github.com/cyavash/hubspot-crm-portfolio/blob/main/hubspot-email-reference.html)** - responsive tables, HubL settings and unsubscribe handling.
+- **[Validation and deployment boundaries](https://github.com/cyavash/hubspot-crm-portfolio/blob/main/ENGINEERING.md)** - what is tested and what still requires platform validation.
 
-- **CRM architecture & RevOps:** pipelines, lifecycle stages, custom objects, associations, lead routing, permissions, workflows and reporting.
-- **Integrations & migrations:** HubSpot APIs, webhooks, private apps, Zapier, n8n and Make, with record matching, duplicate prevention, retries and reconciliation.
-- **Service Hub & AI:** Help Desk, SLAs, Breeze Customer Agent, knowledge sources, multilingual routing and human handoff.
-- **HubSpot CMS & WordPress:** HubL themes, templates, reusable modules, HubDB, landing pages and Figma implementation; ACF Pro, Elementor, Gutenberg and WooCommerce.
-- **Email & measurement:** responsive HTML emails, reusable HubSpot templates, segmentation, nurture campaigns, deliverability, GA4, GTM and UTM attribution.
-- **GTM automation:** Clay enrichment, qualification and CRM handoffs. Also working with GoHighLevel CRM, funnels and automation.
+## Where I add value
 
-## Selected work
+**CRM and RevOps:** pipelines, lifecycle stages, associations, data recovery, permissions, routing, workflow repair and reporting.
 
-| Project | Work and result |
-| --- | --- |
-| Enveseur | Service Hub and Breeze across 3 brands, 2 languages and 10 country branches. Median first human response reduced from 4 hours to 55 minutes. |
-| Functionly | Figma design and HubSpot website development. Reusable modules reduced landing-page build time from 3 hours to 45 minutes. |
-| DataBiologics | WordPress connected to HubSpot CRM. Standardized 18,000 records; new-lead source and ownership completeness improved from 72% to 97%. |
-| Building Brokers WA | WordPress, HubSpot qualification, follow-up, booking and Breeze. Manual handling reduced from 15 to 4 minutes per enquiry. |
-| RMDY Academy | HubSpot and Zapier intake matching. Duplicate creation rate reduced from 5% to 0.5%. |
+**Integrations and automation:** HubSpot APIs, webhooks, n8n and Zapier. Record matching, field ownership, failure handling and reconciliation across connected systems.
 
-More project details, previews and code: **[Project studio](https://cyavash.github.io/hubspot-crm-portfolio/)** · **[siavash.tech](https://siavash.tech/)**
+**Service Hub and AI:** Help Desk, knowledge sources, Breeze Customer Agent, routing and human escalation.
 
-## Public code samples
+**Websites and email:** HubSpot CMS, HubL, HubDB, WordPress, JavaScript, responsive HTML email, deliverability, GA4 and GTM.
 
-- **[Native JavaScript UI](https://github.com/cyavash/hubspot-crm-portfolio/tree/main/native-ui)**: keyboard tabs, scoped disclosures, literal search, filters, menus and user-controlled carousels.
-- **[WordPress component](https://github.com/cyavash/hubspot-crm-portfolio/blob/main/WORDPRESS.md)**: scoped CSS, escaped output and reusable shortcode content.
-- **[HubSpot email reference](https://github.com/cyavash/hubspot-crm-portfolio/blob/main/hubspot-email-reference.html)**: responsive tables, HubL settings and unsubscribe handling.
+**GTM systems:** Clay research and enrichment, qualification and CRM handoffs. GoHighLevel pipelines, forms, funnels and automation.
 
-- **[Kaplan Law CRM intake workflow](showcase/crm-overview.md)**: a concise visual overview of CRM records, pipeline stages, ownership, intake review and follow-up handoffs.
+## How we can work together
 
-- **[HubL service-summary module](showcase/hubl-guide.md)**: editable repeater fields, conditional links and escaped output.
-- **[Quote-pricing calculator](showcase/quote-pricing.md)**: monthly, quarterly and annual billing, optional services, integer-cent arithmetic and automated checks.
-- **[DataBiologics interactive quote](https://siavash.tech/databiologics-quote/)**: standalone quote prototype showing billing choices, optional services and print layouts. Native HubSpot acceptance and payment are not connected.
+| Engagement | Typical starting point | Delivery |
+| --- | --- | --- |
+| Audit and repair | Unreliable data, conflicting workflows or integration failures | Findings, priorities, scoped repairs and acceptance checks |
+| Project implementation | A CRM build, migration, integration, website or support rollout | Architecture, implementation, testing and documented handover |
+| Ongoing remote support | A team that needs an experienced technical owner | Prioritized improvements, maintenance and clear delivery updates |
 
-These are public reference samples. Client implementations and CRM records are kept private.
+I test the exceptions as well as the happy path: repeat submissions, missing fields, ownership conflicts and failed syncs. Handover includes practical documentation and Loom walkthroughs.
 
-## How I deliver
+**Independent specialist. Direct collaboration. No agency.**
 
-Review the existing process, define the architecture, implement, test the exceptions and document the handover. I work on focused fixes, complete implementations and ongoing support, with practical Loom walkthroughs.
-
-**Core stack:** HubSpot · HubL · JavaScript · HTML · CSS · PHP · WordPress · n8n · Zapier · Make · Clay · GoHighLevel
-
-[Discuss a project on Upwork →](https://www.upwork.com/freelancers/siavash/)
+[Tell me what needs to work better →](https://www.upwork.com/freelancers/siavash/)
