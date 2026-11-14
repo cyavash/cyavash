@@ -5,16 +5,16 @@
 
 I help teams make HubSpot reliable: clear data ownership, dependable automation and integrations that support the way the business actually works. I own the architecture and implementation, from the initial audit to testing and handover.
 
-**13+ years across web, CRM and business systems · 8x HubSpot-certified · Top Rated Plus on Upwork**
+**14+ years across web, CRM and business systems · 13x HubSpot-certified · Top Rated Plus on Upwork · Previously HubSpot Specialist at Computan**
 
-[Discuss a project](https://www.upwork.com/freelancers/siavash/) · [Portfolio](https://siavash.tech/) · [Explore the project studio](https://cyavash.github.io/hubspot-crm-portfolio/)
+[Discuss a project](https://www.upwork.com/freelancers/siavash/) · [Portfolio](https://siavash.tech/) · [Explore the project studio](https://cyavash.github.io/hubspot-crm-portfolio/) · [LinkedIn](https://www.linkedin.com/in/siavashzahir/)
 
 ## Start with the work
 
 | If you need… | Explore… | What to look for |
 | --- | --- | --- |
 | CRM qualification and follow-up | [Building Brokers WA](https://cyavash.github.io/hubspot-crm-portfolio/bbwa.html) | Four-step qualification, contact mapping, ownership, booking and human handoff |
-| Customer-service architecture | [Enveseur](https://cyavash.github.io/hubspot-crm-portfolio/enveseur.html) | Service Hub, Breeze knowledge sources, multilingual routing and escalation |
+| Customer-service architecture | [Enveseur](https://cyavash.github.io/hubspot-crm-portfolio/enveseur.html) | 26 storefronts in 20 languages: Service Hub, two Breeze agents, owner routing, custom queues and escalation |
 | HubSpot CMS development | [Functionly](https://cyavash.github.io/hubspot-crm-portfolio/functionly.html) | Responsive templates, reusable HubL modules and marketer editing controls |
 | WordPress connected to CRM | [DataBiologics](https://cyavash.github.io/hubspot-crm-portfolio/databiologics.html) | Lead capture, lifecycle tracking, routing and reporting |
 | Intake and record matching | [RMDY Academy](https://cyavash.github.io/hubspot-crm-portfolio/rmdy.html) | HubSpot and Zapier, duplicate prevention and submission associations |
